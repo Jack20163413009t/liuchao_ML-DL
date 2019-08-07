@@ -107,4 +107,8 @@ func main() {
 	}
 }
 
+func() {
+	fmt.Println("this is Master")
+}
+
 
